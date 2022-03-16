@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nealfokam/Downloads/spark-df/src/main/resources/codesPostaux.csv,/Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/codesPostaux.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nealfokam/Downloads/spark-df/src/main/resources/log4j.properties,/Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/log4j.properties)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nealfokam/Downloads/spark-df/src/main/resources/commune_et_departement.csv/part-00000-4f14592b-6e82-4649-9857-955f5f5b3c6e-c000.csv,/Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/commune_et_departement.csv/part-00000-4f14592b-6e82-4649-9857-955f5f5b3c6e-c000.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/nealfokam/Downloads/spark-df/src/main/resources/commune_et_departement.csv/_SUCCESS,/Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/commune_et_departement.csv/_SUCCESS)[0m

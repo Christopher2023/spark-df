@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/nealfokam/Downloads/spark-df/target/scala-2.13/spark-dataframe-1_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commune_et_departement.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/commune_et_departement.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commune_et_departement.csv/part-00000-4f14592b-6e82-4649-9857-955f5f5b3c6e-c000.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/commune_et_departement.csv/part-00000-4f14592b-6e82-4649-9857-955f5f5b3c6e-c000.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	commune_et_departement.csv/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/commune_et_departement.csv/_SUCCESS[0m
+[0m[[0m[0mdebug[0m] [0m[0m	codesPostaux.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/codesPostaux.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/fr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/fr/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/data/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/fr/data/spark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/data/spark/DataFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/fr/data/spark/DataFrame.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fr/data/spark/DataFrame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/fr/data/spark/DataFrame$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/nealfokam/Downloads/spark-df/target/scala-2.13/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
